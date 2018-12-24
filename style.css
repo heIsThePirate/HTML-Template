@@ -65,5 +65,14 @@ ul {
 	padding: 10px;
 	background: #666;
 	margin-top: 30px;
+}
 
+.services li {
+	border-bottom: 2px #666 dashed;
+	padding-bottom: 20px;
+}
+
+.services a {
+	background: #666;
+	padding: 10px;
 }
