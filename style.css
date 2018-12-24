@@ -76,3 +76,9 @@ ul {
 	background: #666;
 	padding: 10px;
 }
+
+input, textarea {
+	width: 100px;
+	padding: 5px;
+	margin-bottom: 15px;
+}
